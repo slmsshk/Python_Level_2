@@ -1,4 +1,4 @@
-# # # created using OpenCV library to draw virtually on your webcam. Use an blue marker to draw your paintings. 
+# # # created using OpenCV library to draw virtually on your webcam. Use a blue marker to draw your paintings. 
 # # # *This works best with your webcam facing a white background!
 
 import cv2
